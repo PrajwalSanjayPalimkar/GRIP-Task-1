@@ -85,7 +85,7 @@ if(isset($_POST['submit']))
 <!-- Navigation bar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Zombie Bank [¬º-°]¬  </a>
+    <a class="navbar-brand" href="#">Zombie Bank</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -204,7 +204,7 @@ if(isset($_POST['submit']))
         </form>
     </div>
     <footer class="text-center mt-5 py-2">
-            <p>&copy 2021 <b>Kaul Saneet</b> <br> Zombie Foundation</p>
+            <p>&copy 2021 <b>Prajwal Sanjay Palimkar</b> <br> Zombie Foundation</p>
     </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
